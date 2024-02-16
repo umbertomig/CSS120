@@ -1,7 +1,13 @@
-# CSS 120
+# CSS 120 - Introduction to Environmental Data Science
 
-## Environmental Data Science
+## Dr. Umberto Mignozzetti (UCSD)
 
-This repo contains materials from my Environmental Data Science Course.
+In this repository, you can find:
 
-#UCSD Fiat Lux!
+- **data**: Datasets
+- **lectures**: Folder with Lectures
+- **problemsets**: Problem Sets
+- **labs**: Class Labs
+
+*UC San Diego: Fiat lux*
+*Go Tritons!*
